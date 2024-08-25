@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/tests",
+    "license": "MIT",
+    "description": "My first tests",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Tests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Gaponov",
+            "email": "mr.nekron@gmail.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
